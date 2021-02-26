@@ -1,0 +1,15 @@
+.vs/
+Library/
+Logs/
+obj/
+Assembly-CSharp.csproj
+napiah.apk
+Napiah_Vuforia.sln
+napiah2.apk
+Unity.CollabProxy.Editor.csproj
+Unity.Rider.Editor.csproj
+Unity.TextMeshPro.csproj
+Unity.TextMeshPro.Editor.csproj
+Unity.VSCode.Editor.csproj
+UnityEditor.TestRunner.csproj
+UnityEngine.TestRunner.csproj

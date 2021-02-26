@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<QCARConfig xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="qcar_config.xsd">
+  <Tracking>
+    <ImageTarget name="100rb_edited1" size="0.150000 0.063750" />
+    <ImageTarget name="20rb_edited1_comp1" size="0.150000 0.065482" />
+    <ImageTarget name="50rb_edited_comp" size="0.150000 0.065275" />
+    <ImageTarget name="100rbBy" size="0.050000 0.036128" />
+    <ImageTarget name="100rbB1x" size="0.030000 0.064910" />
+    <ImageTarget name="100rbB1" size="0.070000 0.070000" />
+    <ImageTarget name="100rbA2" size="0.070000 0.070000" />
+    <ImageTarget name="100rbA1" size="0.070000 0.070036" />
+  </Tracking>
+</QCARConfig>
